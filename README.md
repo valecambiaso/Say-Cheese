@@ -2,6 +2,8 @@
 
 <h1 align="center">Una página web orientada a la venta de lo que todos amamos: el queso.</h1>
 
+![image](https://github.com/valecambiaso/Say-Cheese/assets/71225806/0d5e85e4-59bb-4e6b-9f2f-9b27a104ab73)
+
 <b><h2>Promoción</h2></b>
 
 <b><h3>LINK</h3></b>
